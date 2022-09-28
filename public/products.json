@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "image": "https://ibb.co/7yJjVw1",
+        "age": 25,
+        "name": "Adjustable bench"
+    },
+    {
+        "id": "2",
+        "image": "https://ibb.co/6Wjdrqf",
+        "age": 26,
+        "name": "Exercise ball"
+    },
+    {
+        "id": "3",
+        "image": "https://ibb.co/7C6hx6F",
+        "age": 29,
+        "name": "Dumbbell"
+    },
+    {
+        "id": "4",
+        "image": "https://ibb.co/WFyFRGW",
+        "age": 34,
+        "name": "Lat Pulling"
+    },
+    {
+        "id": "5",
+        "image": "https://ibb.co/yQ2h4hx",
+        "age": 30,
+        "name": "Leg Press"
+    },
+    {
+        "id": "6",
+        "image": "https://ibb.co/Wymkn3K",
+        "age": 30,
+        "name": "Leg Curl"
+    }
+]

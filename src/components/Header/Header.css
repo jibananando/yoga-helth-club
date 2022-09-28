@@ -1,3 +1,8 @@
+.header-container {
+    display: grid;
+    grid-template-columns: 4fr, 1fr;
+}
+
 .header {
     height: 80px;
     background-color: #1C2B35;
