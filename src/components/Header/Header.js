@@ -3,12 +3,12 @@ import Exercise from '../Exercise/Exercise';
 import Summary from '../Summary/Summary';
 import './Header.css'
 
-const Header = ({ clickBtn, timeData }) => {
-    // const [timeData, setTimeData] = useState(0);
-    // const clickBtn = (time) => {
-    //     console.log("click");
-    //     setTimeData(timeData + time);
-    // }
+const Header = () => {
+    const [timeData, setTimeData] = useState(0);
+    const clickBtn = (time) => {
+        console.log("click");
+        setTimeData(timeData + time);
+    }
     return (
         <div className='header-field'>
             <div >
