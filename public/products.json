@@ -3,42 +3,42 @@
         "id": "1",
         "img": "https://www.linkpicture.com/q/Adjustable-bench.jpg",
         "age": "25-40",
-        "time": "5m",
+        "time": 5,
         "name": "Adjustable bench"
     },
     {
         "id": "2",
         "img": "https://www.linkpicture.com/q/Exercise-ball.jpg",
         "age": "20-40",
-        "time": "10m",
+        "time": 10,
         "name": "Exercise ball"
     },
     {
         "id": "3",
         "img": "https://www.linkpicture.com/q/Dumbbell.jpg",
         "age": "18-40",
-        "time": "7m",
+        "time": 7,
         "name": "Dumbbell"
     },
     {
         "id": "4",
         "img": "https://www.linkpicture.com/q/Lat-Pulling.jpg",
         "age": "30-40",
-        "time": "8m",
+        "time": 8,
         "name": "Lat Pulling"
     },
     {
         "id": "5",
         "img": "https://www.linkpicture.com/q/Leg-Press.jpg",
         "age": "30-40",
-        "time": "6m",
+        "time": 6,
         "name": "Leg Press"
     },
     {
         "id": "6",
         "img": "https://www.linkpicture.com/q/Leg-Curl.jpg",
         "age": "20-40",
-        "time": "4m",
+        "time": 4,
         "name": "Leg Curl"
     }
 ]
