@@ -1,6 +1,6 @@
 .header-field {
     display: grid;
-    grid-template-columns: 7fr 2fr;
+    grid-template-columns: 9fr 3fr;
 }
 
 .header {

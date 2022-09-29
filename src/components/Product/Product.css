@@ -1,0 +1,12 @@
+.product {
+    /* border: 1px solid #95A0A7; */
+    border-radius: 8px;
+    position: relative;
+}
+
+.product img {
+    width: 286px;
+    height: 286px;
+    border-radius: 8px;
+    margin: 7px;
+}
