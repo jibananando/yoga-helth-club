@@ -1,11 +1,13 @@
 .header-field {
     display: grid;
     grid-template-columns: 9fr 3fr;
+
 }
 
 .header {
     color: blue;
     padding-left: 80px;
     padding-top: 5px;
-    background-color: darkgray;
+
+    /* background-color: darkgray; */
 }
