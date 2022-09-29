@@ -9,3 +9,9 @@
     margin-top: 50px;
     margin-left: 80px;
 }
+
+@media screen and (max-width:780px) {
+    .exercise-field {
+        grid-template-columns: 1fr;
+    }
+}

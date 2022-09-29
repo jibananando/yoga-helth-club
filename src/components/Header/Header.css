@@ -16,3 +16,24 @@
     width: 100px;
     margin-left: 80px;
 }
+
+@media screen and (max-width:780px) {
+    .header-field {
+
+        grid-template-columns: 1fr;
+
+    }
+
+    .header-img {
+        height: 50px;
+        width: 50px;
+        margin-left: 10px;
+    }
+
+    .header {
+
+        font-size: 30px;
+
+        /* background-color: darkgray; */
+    }
+}
