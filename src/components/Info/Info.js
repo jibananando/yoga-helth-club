@@ -1,4 +1,5 @@
 import React from 'react';
+import Break from '../Break/Break';
 import './Info.css'
 
 const Info = () => {
@@ -13,7 +14,7 @@ const Info = () => {
             <div>
                 <h5>Add A Break</h5>
                 <div>
-
+                    <Break></Break>
                 </div>
             </div>
         </div>
