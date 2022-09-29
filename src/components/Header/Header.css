@@ -1,0 +1,11 @@
+.header-field {
+    display: grid;
+    grid-template-columns: 7fr 2fr;
+}
+
+.header {
+    color: blue;
+    padding-left: 80px;
+    padding-top: 5px;
+    background-color: darkgray;
+}

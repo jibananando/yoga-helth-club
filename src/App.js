@@ -1,10 +1,11 @@
 import './App.css';
+import Header from './components/Header/Header';
 
 
 function App() {
   return (
     <div>
-      <h1>clean my assignment 8</h1>
+      <Header></Header>
     </div>
   );
 }

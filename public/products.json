@@ -1,28 +1,28 @@
 [
     {
         "id": "1",
-        "img": "https://ibb.co/7yJjVw1",
+        "img": "https://www.linkpicture.com/q/Adjustable-bench.jpg",
         "age": "25-40",
         "time": "5m",
         "name": "Adjustable bench"
     },
     {
         "id": "2",
-        "img": "https://ibb.co/6Wjdrqf",
+        "img": "https://www.linkpicture.com/q/Exercise-ball.jpg",
         "age": "20-40",
         "time": "10m",
         "name": "Exercise ball"
     },
     {
         "id": "3",
-        "img": "https://ibb.co/7C6hx6F",
+        "img": "https://www.linkpicture.com/q/Dumbbell.jpg",
         "age": "18-40",
         "time": "7m",
         "name": "Dumbbell"
     },
     {
         "id": "4",
-        "img": "https://ibb.co/WFyFRGW",
+        "img": "https://www.linkpicture.com/q/Lat-Pulling.jpg",
         "age": "30-40",
         "time": "8m",
         "name": "Lat Pulling"
@@ -32,11 +32,11 @@
         "img": "https://ibb.co/yQ2h4hx",
         "age": "30-40",
         "time": "6m",
-        "name": "Leg Press"
+        "name": "https://www.linkpicture.com/q/Leg-Press.jpg"
     },
     {
         "id": "6",
-        "img": "https://ibb.co/Wymkn3K",
+        "img": "https://www.linkpicture.com/q/Leg-Curl.jpg",
         "age": "20-40",
         "time": "4m",
         "name": "Leg Curl"
