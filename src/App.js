@@ -1,15 +1,15 @@
 import './App.css';
-import Exercise from './components/Exercise/Exercise';
 import Header from './components/Header/Header';
-import Product from './components/Product/Product';
+import { ToastContainer } from 'react-toastify';
 
+import 'react-toastify/dist/ReactToastify.css';
 
 
 function App() {
   return (
     <div>
       <Header></Header>
-      {/* <Exercise></Exercise> */}
+      <ToastContainer></ToastContainer>
     </div>
   );
 }
