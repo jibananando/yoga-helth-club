@@ -1,4 +1,5 @@
 import React from 'react';
+import ExerciseDtails from '../ExerciseDtails/ExerciseDtails';
 import './Break.css'
 
 const Break = () => {
@@ -15,6 +16,7 @@ const Break = () => {
             {
                 breakTimeArry.map(item => <span className='break-time' key={item.id}>{item.break}</span>)
             }
+            <ExerciseDtails></ExerciseDtails>
         </div>
     );
 };
